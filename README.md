@@ -1,7 +1,7 @@
 # 3D-Social-Media-Button
 Learn how to create 3D Social Media Buttons with Hover Effects using HTML and CSS! 🚀 In this quick and easy tutorial, you’ll learn how to design modern and attractive social media buttons with 3D effects, smooth hover animations, and CSS transitions.
 
-![image alt](https://github.com/amiththoughts/3D-Social-Media-Button/blob/e26a19c16068e4e0eee76fbc09574121fe9a34e8/Social.png)
+![image alt](https://github.com/amiththoughts/3D-Social-Media-Buttons/blob/470d1df570b95868793d72154ecefc79b9010237/Social.jpeg)
 
 # HTML Program
       <!DOCTYPE html>
